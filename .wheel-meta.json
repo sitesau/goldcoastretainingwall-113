@@ -1,0 +1,22 @@
+{
+  "wheel_id": 526,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-113",
+  "project": "retaining-walls-gold-coast-what-to-expect-83ac66d617c3df938ba5f",
+  "parent_t1_ref": "goldcoastretainingwall-157",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.au",
+  "primary_kw": "retaining walls gold coast what to expect",
+  "intended_url": "https://aumedia.neocities.org/retaining-walls-gold-coast-what-to-expect-83ac66d617c3df938ba5f/",
+  "tier": "T2",
+  "writeback_nonce": "138491ac2a01983e",
+  "links": [
+    {
+      "target_url": "http://retaining-walls-gold-coast-pros-and-cons-bca1c35a8f1981874917f0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://retaining-walls-gold-coast-pros-and-cons-bca1c35a8f1981874917f0.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
